@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshved" alt="harshved" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/harshved14" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/harshved14?logo=twitter&style=for-the-badge" alt="https://twitter.com/harshved14" /></a> </p>
+<p align="left"> <a href="https://x.com/HarshVed14" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/HarshVed14?logo=twitter&style=for-the-badge" alt="https://x.com/HarshVed14" /></a> </p>
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development | Cybersecurity | Blockchain Smart Contract**
 
-- 📫 How to reach me **hved095@rku.ac.in**
+- 📫 How to reach me **harshved3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/harshved14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/harshved14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-v-197480128/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harsh-v-197480128/" height="30" width="40" /></a>
+<a href="https://x.com/HarshVed14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" alt="https://x.com/HarshVed14" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://https://www.linkedin.com/in/harshved10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harsh-v-197480128/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/vedharsh3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/vedharsh3/" height="30" width="40" /></a>
 </p>
 
