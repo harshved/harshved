@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull%2BStack%2BSoftware%2BEngineer%3BPython%2B%2526%2BNode.js%2BDeveloper%3BCybersecurity%2B%2526%2BDevSecOps%3BCloud%2BInfrastructure%2BEnthusiast" alt="Typing Animation" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full%20Stack%20Software%20Engineer%3BPython%20%26%20Node.js%20Developer%3BCybersecurity%20%26%20DevSecOps%3BCloud%20Infrastructure%20Enthusiast" alt="Typing Animation" />
 
 <h2 align="center">Hi there, I'm Harsh Ved! 👋</h2>
 
 <!-- Intro -->
+
 <p align="center">
 <b>Building scalable systems with a security-first mindset.</b>
 <br />
@@ -13,58 +15,73 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 </p>
 
 <!-- Connect Badges -->
+
 <p align="center">
 <a href="mailto:harshved3@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-harshved3%2540gmail.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+<img src="https://img.shields.io/badge/Email-harshved3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/harshved10">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/harshved10">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 </div>
 
 <!-- Tech Stack -->
+
 <h3 align="center">🛠️ Technical Arsenal</h3>
+
 <div align="center">
 
 <!-- Languages -->
+
 <h4>Languages</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</p>
 
 <!-- Frontend & Backend -->
+
 <h4>Full Stack & Frameworks</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</p>
 
 <!-- Cloud & DevOps -->
+
 <h4>Cloud & DevOps</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Terraform-623CE4%3Fstyle%3Dfor-the-badge%26logo%3Dterraform%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" />
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 
 </div>
 
 <br />
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats Section -->
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/harshved">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dharshved%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D20C20E%26icon_color%3D20C20E" alt="Harsh's Stats" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dharshved%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D20C20E" alt="Harsh's Top Languages" />
+
+<a href="https://github.com/harshved">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshved&show_icons=true" alt="Harsh's Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshved&layout=donut&theme=aura" alt="Harsh's Top Languages" />
+  
 </a>
 </div>
 
 <br />
 
 <!-- Featured Projects Section -->
+
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
@@ -81,27 +98,27 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 <td align="center"><b>Orange Blossom E-Commerce</b></td>
 <td>Architected an end-to-end e-commerce platform. Managed the full lifecycle from user order ingestion to Stripe webhook processing, utilizing a normalized SQL schema for complex transaction flows.</td>
 <td align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-blue%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-green%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Stripe_API-purple%3Fstyle%3Dflat-square" />
+<img src="https://img.shields.io/badge/React-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Stripe_API-purple?style=flat-square" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Algorithmic Trading Engine</b></td>
 <td>Engineered a high-frequency trading pipeline capable of processing financial time-series data with millisecond latency. Implemented anomaly detection to identify volume spikes and automate execution.</td>
 <td align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-blue%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-navy%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ETL-orange%3Fstyle%3Dflat-square" />
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Pandas-navy?style=flat-square" />
+<img src="https://img.shields.io/badge/ETL-orange?style=flat-square" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>DevSecOps Pipeline</b></td>
 <td>Implemented "Security as Code" within CI/CD workflows. Automated container vulnerability scanning and infrastructure log analysis to ensure observability and threat mitigation in deployment builds.</td>
 <td align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-blue%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-black%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-orange%3Fstyle%3Dflat-square" />
+<img src="https://img.shields.io/badge/Docker-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/GitHub_Actions-black?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-orange?style=flat-square" />
 </td>
 </tr>
 </tbody>
@@ -111,13 +128,15 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 <br />
 
 <!-- Streak Stats -->
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dharshved%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0d1117%26ring%3D20C20E%26fire%3D20C20E%26currStreakLabel%3D20C20E" alt="GitHub Streak" />
+<!-- NOTE: Replace 'harshved' with your actual username -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshved&theme=radical&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="GitHub Streak" />
 </div>
 
 <br />
 <br />
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dharshved%26color%3D20C20E%26style%3Dflat-square%26label%3DProfile%2BViews" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=harshved&color=20C20E&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </div>
