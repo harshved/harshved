@@ -1,26 +1,123 @@
-<h1 align="center">Hi 👋, I'm Harsh Ved</h1>
-<h3 align="center">A passionate developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshved&label=Profile%20views&color=0e75b6&style=flat" alt="harshved" /> </p>
+<!-- Header -->
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull%2BStack%2BSoftware%2BEngineer%3BPython%2B%2526%2BNode.js%2BDeveloper%3BCybersecurity%2B%2526%2BDevSecOps%3BCloud%2BInfrastructure%2BEnthusiast" alt="Typing Animation" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshved" alt="harshved" /></a> </p>
+<h2 align="center">Hi there, I'm Harsh Ved! 👋</h2>
 
-<p align="left"> <a href="https://x.com/HarshVed14" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/HarshVed14?logo=twitter&style=for-the-badge" alt="https://x.com/HarshVed14" /></a> </p>
-
-- 💬 Ask me about **Software Development | Cybersecurity | Blockchain Smart Contract**
-
-- 📫 How to reach me **harshved3@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/HarshVed14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" alt="https://x.com/HarshVed14" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harshved10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harshved10/" height="30" width="40" /></a>
-<a href="www.instagram.com/vedharsh3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/vedharsh3/" height="30" width="40" /></a>
+<!-- Intro -->
+<p align="center">
+<b>Building scalable systems with a security-first mindset.</b>
+<br />
+I am a Full Stack Engineer with a specialized background in Cybersecurity and Cloud Data Management. From architecting high-frequency trading engines to building robust e-commerce platforms, I bridge the gap between complex backend logic and responsive frontend design. I focus on creating production-ready applications that are secure, efficient, and scalable.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- Connect Badges -->
+<p align="center">
+<a href="mailto:harshved3@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-harshved3%2540gmail.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/harshved10">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+</p>
+</div>
 
+<!-- Tech Stack -->
+<h3 align="center">🛠️ Technical Arsenal</h3>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshved&" alt="harshved" /></p>
+<!-- Languages -->
+<h4>Languages</h4>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
 
+<!-- Frontend & Backend -->
+<h4>Full Stack & Frameworks</h4>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
+
+<!-- Cloud & DevOps -->
+<h4>Cloud & DevOps</h4>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Terraform-623CE4%3Fstyle%3Dfor-the-badge%26logo%3Dterraform%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" />
+
+</div>
+
+<br />
+
+<!-- GitHub Stats -->
+
+<div align="center">
+<a href="https://www.google.com/search?q=https://github.com/harshved">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dharshved%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D20C20E%26icon_color%3D20C20E" alt="Harsh's Stats" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dharshved%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D20C20E" alt="Harsh's Top Languages" />
+</a>
+</div>
+
+<br />
+
+<!-- Featured Projects Section -->
+<h3 align="center">🚀 Featured Projects</h3>
+
+<div align="center">
+<table>
+<thead align="center">
+<tr>
+<th width="25%">Project</th>
+<th width="45%">Description</th>
+<th width="30%">Tech Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>Orange Blossom E-Commerce</b></td>
+<td>Architected an end-to-end e-commerce platform. Managed the full lifecycle from user order ingestion to Stripe webhook processing, utilizing a normalized SQL schema for complex transaction flows.</td>
+<td align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-blue%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-green%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Stripe_API-purple%3Fstyle%3Dflat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Algorithmic Trading Engine</b></td>
+<td>Engineered a high-frequency trading pipeline capable of processing financial time-series data with millisecond latency. Implemented anomaly detection to identify volume spikes and automate execution.</td>
+<td align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-blue%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-navy%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ETL-orange%3Fstyle%3Dflat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>DevSecOps Pipeline</b></td>
+<td>Implemented "Security as Code" within CI/CD workflows. Automated container vulnerability scanning and infrastructure log analysis to ensure observability and threat mitigation in deployment builds.</td>
+<td align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-blue%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-black%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-orange%3Fstyle%3Dflat-square" />
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br />
+
+<!-- Streak Stats -->
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dharshved%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0d1117%26ring%3D20C20E%26fire%3D20C20E%26currStreakLabel%3D20C20E" alt="GitHub Streak" />
+</div>
+
+<br />
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dharshved%26color%3D20C20E%26style%3Dflat-square%26label%3DProfile%2BViews" alt="Profile Views" />
+</div>
