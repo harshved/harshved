@@ -40,6 +40,9 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
 <!-- Frontend & Backend -->
@@ -47,9 +50,12 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 <h4>Full Stack & Frameworks</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>  
 </p>
 
 <!-- Cloud & DevOps -->
@@ -57,6 +63,7 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 <h4>Cloud & DevOps</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
@@ -83,7 +90,6 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 <!-- Featured Projects Section -->
 
 <h3 align="center">🚀 Featured Projects</h3>
-
 <div align="center">
 <table>
 <thead align="center">
@@ -94,6 +100,25 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 </tr>
 </thead>
 <tbody>
+<tr>
+<td align="center"><b>IoT Based Smart Garbage Monitoring System</b></td>
+<td>Designed an IoT solution for waste management optimization. Integrated ultrasonic sensors with ESP8266 microcontrollers to transmit real-time fill levels to a cloud dashboard, reducing collection costs.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/React-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/C%2B%2B_(Arduino)-00979D?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT_Sensors-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Firebase-purple?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>UbiqDocs Manager</b></td>
+<td>A secure, cloud-native document management platform enabling real-time collaboration. Implemented role-based access control (RBAC) and encrypted storage to ensure data integrity for enterprise users.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/React-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square" />
+<img src="https://img.shields.io/badge/MongoDB-purple?style=flat-square" />
+</td>
+</tr>
 <tr>
 <td align="center"><b>Orange Blossom E-Commerce</b></td>
 <td>Architected an end-to-end e-commerce platform. Managed the full lifecycle from user order ingestion to Stripe webhook processing, utilizing a normalized SQL schema for complex transaction flows.</td>
