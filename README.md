@@ -2,7 +2,7 @@
 
 <!-- Header -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full%20Stack%20Software%20Engineer%3BPython%20%26%20Node.js%20Developer%3BCybersecurity%20%26%20DevSecOps%3BCloud%20Infrastructure%20Enthusiast" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full%20Stack%20Developer%3BPython%20%26%20Node.js%20Developer%3BCybersecurity%20%26%20DevSecOps%3BCloud%20Infrastructure%20Enthusiast" alt="Typing Animation" />
 
 <h2 align="center">Hi there, I'm Harsh Ved! 👋</h2>
 
@@ -101,6 +101,27 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 </thead>
 <tbody>
 <tr>
+<td align="center"><b>DocuVault Ecosystem</b></td>
+<td>A secure, cloud-native document management platform enabling real-time collaboration. Implemented role-based access control (RBAC) and encrypted storage to ensure data integrity for enterprise users.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/React-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-green?style=flat-square" />
+<img src="https://img.shields.io/badge/MongoDB-purple?style=flat-square" />
+</td>
+</tr>
+  
+<tr>
+<td align="center"><b>Algorithmic Trading Engine</b></td>
+<td>Engineered a high-frequency trading pipeline capable of processing financial time-series data with millisecond latency. Implemented anomaly detection to identify volume spikes and automate execution.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/React-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-navy?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSockets-red?style=flat-square" />
+<img src="https://img.shields.io/badge/ETL-orange?style=flat-square" />
+</td>
+</tr>
+<tr>
 <td align="center"><b>IoT Based Smart Garbage Monitoring System</b></td>
 <td>Designed an IoT solution for waste management optimization. Integrated ultrasonic sensors with ESP8266 microcontrollers to transmit real-time fill levels to a cloud dashboard, reducing collection costs.</td>
 <td align="center">
@@ -110,33 +131,18 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 <img src="https://img.shields.io/badge/Firebase-purple?style=flat-square" />
 </td>
 </tr>
-<tr>
-<td align="center"><b>UbiqDocs Manager</b></td>
-<td>A secure, cloud-native document management platform enabling real-time collaboration. Implemented role-based access control (RBAC) and encrypted storage to ensure data integrity for enterprise users.</td>
-<td align="center">
-<img src="https://img.shields.io/badge/React-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square" />
-<img src="https://img.shields.io/badge/MongoDB-purple?style=flat-square" />
-</td>
-</tr>
+
 <tr>
 <td align="center"><b>Orange Blossom E-Commerce</b></td>
 <td>Architected an end-to-end e-commerce platform. Managed the full lifecycle from user order ingestion to Stripe webhook processing, utilizing a normalized SQL schema for complex transaction flows.</td>
 <td align="center">
-<img src="https://img.shields.io/badge/React-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Stripe_API-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/PHP-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/MySQL-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Webhooks-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Shopify_API-orange?style=flat-square" />
 </td>
 </tr>
-<tr>
-<td align="center"><b>Algorithmic Trading Engine</b></td>
-<td>Engineered a high-frequency trading pipeline capable of processing financial time-series data with millisecond latency. Implemented anomaly detection to identify volume spikes and automate execution.</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Pandas-navy?style=flat-square" />
-<img src="https://img.shields.io/badge/ETL-orange?style=flat-square" />
-</td>
-</tr>
+
 <tr>
 <td align="center"><b>DevSecOps Pipeline</b></td>
 <td>Implemented "Security as Code" within CI/CD workflows. Automated container vulnerability scanning and infrastructure log analysis to ensure observability and threat mitigation in deployment builds.</td>
@@ -155,7 +161,6 @@ I am a Full Stack Engineer with a specialized background in Cybersecurity and Cl
 <!-- Streak Stats -->
 
 <div align="center">
-<!-- NOTE: Replace 'harshved' with your actual username -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshved&theme=radical&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="GitHub Streak" />
 </div>
 
